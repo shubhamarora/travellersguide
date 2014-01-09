@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000" 
+    android:weightSum="1">
+    
+    <TextView 
+        android:layout_width="match_parent"
+    android:layout_height="20dp"
+    android:gravity="top"
+    android:layout_weight=".1"
+    android:visibility="invisible"
+    />
+
+    
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight=".2"
+        android:gravity="center"
+        >
+        
+    <ImageButton android:id="@+id/vbtn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/fta"
+        android:layout_gravity="center"
+        android:background="@null"/>
+    </LinearLayout>
+    
+     <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_weight="0.2">
+    <ImageButton android:id="@+id/vbtn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ftv"
+        android:layout_gravity="center"
+        android:background="@null"/>
+    </LinearLayout>
+    
+
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_weight=".2">
+
+    <ImageButton android:id="@+id/vbtn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/feec"
+        android:layout_gravity="center"       
+         android:background="@null"/>
+    </LinearLayout>
+    
+     <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_weight="0.2">
+    <ImageButton android:id="@+id/vbtn4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/feeu"
+        android:layout_gravity="center"
+        android:background="@null"/>    
+    </LinearLayout>
+</LinearLayout>
