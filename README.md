@@ -31,4 +31,4 @@ www.travellersguide.site11.com
 Contributor
 ===============
 
-<ul><li><a href="https://www.facebook.com/siddie.omen">Siddharth Singh</a>(UI Designer)</li></ul>
+<ul><li><a href="https://www.facebook.com/siddie.omen">Siddharth Singh</a> (UI Designer)</li></ul>
