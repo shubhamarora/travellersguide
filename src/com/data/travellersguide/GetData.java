@@ -57,9 +57,9 @@ public class GetData extends AsyncTask<Void, Void, String> {
               
     try { 
         if(condition.equals("hotel")==true)
-        httppost= new HttpPost("http://travellersguide.site11.com/hoteltourism.php"); 
+        httppost= new HttpPost("URL_HERE"); 
         else
-        	httppost= new HttpPost("http://travellersguide.site11.com/serviceprovider.php"); 
+        	httppost= new HttpPost("URL_HERE"); 
           
         HttpParams httpParameters = new BasicHttpParams(); 
         // Set the timeout in milliseconds until a connection is established. 
