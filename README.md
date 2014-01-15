@@ -1,11 +1,13 @@
 About
 ===============
 
-This application was made to promote Open Data from <a href="http://data.gov.in">Data Portal India</a>.<br/>Data Portal India is a platform for supporting Open Data initiative of Government of India. The portal is intended to be used by Ministries/Department/Organizations of Government of India to publish datasets, and applications for public use.
-
 The application is for those who are searching for hotels, service providers(Packers & movers, travellers). All these hotels and services provider are certified/recommended by Tourism Ministry of India.
 
+Another motive is to promote Open Data from <a href="http://data.gov.in">Data Portal India</a> and participate in <a href="http://data.gov.in/appschallenge">#OpenDataApps</a> challenge
 
+Data Portal India is a platform for supporting Open Data initiative of Government of India. The portal is intended to be used by Ministries/Department/Organizations of Government of India to publish datasets, and applications for public use.
+
+<a href="http://data.gov.in"><img src="http://ogpl.gov.in/ogpl-images/data_gov.jpg" /></a>
 Datasets Used
 ===============
 
