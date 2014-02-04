@@ -33,4 +33,4 @@ Contributor
 ===============
 
 <ul><li><a href="https://www.facebook.com/siddie.omen">Siddharth Singh</a> (UI Designer)</li>
-<li><a href="https://www.facebook.com/arpit.audiomania">Arpit Sharma</a></li></ul>
+<li><a href="https://www.facebook.com/arpit.audiomania">Arpit Sharma</a> (Data Analyst)</li></ul>
